@@ -9,7 +9,7 @@ p {
     line-height: 10px;
     text-align: justify;
 
-    background: url("image.jpg") no-repeat center;
+    background: url(image.jpg) no-repeat center;
     background-size: cover;
     background-attachment: fixed;
 
